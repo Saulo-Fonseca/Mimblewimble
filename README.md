@@ -24,7 +24,7 @@ This module uses the BigNum library, which allows the use of 256 bits numbers or
 * Exponentiation
 * Negation
 
-# Point
+# Module Point
 
 This module implements operations on Elliptic Curve points. This is also a basic activity used in cryptography. Here you have the following operations:
 
@@ -33,7 +33,7 @@ This module implements operations on Elliptic Curve points. This is also a basic
 * Addition
 * Subtraction
 
-# Curve
+# Module Curve
 
 This module implements the elliptic curve Secp256k1, used in most cryptocurrencies. It has the following functions:
 
